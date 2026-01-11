@@ -1,6 +1,6 @@
 # My-DIY-project
 ![photo_2026-01-11_19-41-14](https://github.com/user-attachments/assets/5cc21ab5-aeaa-4a72-9d71-91113a7f01dc)
-For my first project using EPS8266. I loaded ESP-8266 Deauther on it using official guide. I only used it to test my personal home Wi-Fi and I am not planning to use it in any other way. I wanted to make it usable without Micro-USB, so i used 18650 battery which I had lying in my house
+For my first project using ESP8266. I loaded ESP-8266 Deauther firmware on it using the official guide. I only used it to test my personal home Wi-Fi and I am not planning to use it in any other way. I wanted to make it usable without Micro-USB, so I used 18650 battery which I had lying in my house
 * [Installation Guide](https://docs.spacehuhn.com/deauther/diy-tutorial/installation-arduino/)
 * [Display Guide](https://docs.spacehuhn.com/deauther/diy-tutorial/display-setup/)
 ### In this project I used:
@@ -14,7 +14,7 @@ For my first project using EPS8266. I loaded ESP-8266 Deauther on it using offic
 - 11x Male-to-male Dupont cables 5cm (a little bit smaller is better because it becomes messy)
 - 2x Male-to-female Dupont cables 10cm
 - 3x 6x6x5mm Tactile Push Button Switch
-- 1x 9х9х5mm radiator for TP4056 (because it can get very hot)
+- 1x 9х9х5mm heatsink for TP4056 (because it can get very hot)
 - A little bit of double sided tape but it can be replaced by using some glue  
 ![photo_2026-01-11_19-41-15](https://github.com/user-attachments/assets/33bc4c19-dbf7-4a38-ab66-1ddcc6617295)
-I connected two breadboards to make one big and added bottle caps as a stand to make it not flat, they are detachable because I taped them using double sided tape. Also i added a bit of foam on pins to not bend them accidently.
+I connected two breadboards to make larger workspace and added bottle caps as a stand to raise it, they are detachable because I taped them using double sided tape. Also i added a bit of foam on pins to not bend them accidentally.
