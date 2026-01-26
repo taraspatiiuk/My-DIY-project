@@ -1,6 +1,7 @@
-# My-DIY-project
+# NodeMCU-Deauther-project
+A NodeMCU based deauther to test Wi-Fi networks and find vulnerabilities. I only used it to test my personal home Wi-Fi and I am not planning to use it in any other way.
 ![photo_2026-01-11_19-41-14](https://github.com/user-attachments/assets/5cc21ab5-aeaa-4a72-9d71-91113a7f01dc)
-For my first project using ESP8266. I loaded ESP-8266 Deauther firmware on it using the official guide. I only used it to test my personal home Wi-Fi and I am not planning to use it in any other way. I wanted to make it usable without Micro-USB, so I used 18650 battery which I had lying in my house
+For my first project using ESP8266. I loaded ESP-8266 Deauther firmware on it using the official guide. I wanted to make it usable without Micro-USB, so I used 18650 battery which I had lying in my house
 * [Installation Guide](https://docs.spacehuhn.com/deauther/diy-tutorial/installation-arduino/)
 * [Display Guide](https://docs.spacehuhn.com/deauther/diy-tutorial/display-setup/)
 ### In this project I used:
